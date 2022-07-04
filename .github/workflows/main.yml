@@ -50,3 +50,4 @@ jobs:
             function_name: uploadPhotoToS3:lambda_function.lambda_handler
             #contains all the files in my github repository
             zip_file: labda_function.zip
+            aws_region: ap-south-1
